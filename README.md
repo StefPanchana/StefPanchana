@@ -71,7 +71,7 @@ Universidad de Guayaquil
 ### 📎 Conecta conmigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/stefania-panchana/)
-- 📄 [CV en PDF](https://github.com/stefaniapanchana/stefaniapanchana/blob/main/CV%20StefPanchana.pdf)
+<!--- 📄 [CV en PDF](https://github.com/stefaniapanchana/stefaniapanchana/blob/main/CV%20StefPanchana.pdf)-->
 
 ---
 
