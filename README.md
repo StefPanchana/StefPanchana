@@ -62,7 +62,7 @@ Universidad de Guayaquil
 ---
 
 ### 📈 GitHub Stats (opcional)
-![Stefania's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefaniapanchana&show_icons=true&theme=radical)
+![Stefania's GitHub stats](https://github-readme-stats.vercel.app/api?username=StefPanchana&show_icons=true&theme=radical)
 
 ---
 
